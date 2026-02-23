@@ -1,0 +1,3 @@
+Az objektumorientált programozás egy olyan programozási paradigma, amely a valós világ elemeit objektumokként modellezi.
+Ezek az objektumok adatokat (attribútumok) és viselkedést (metódusok) egyaránt tartalmaznak.
+Logikusan szervezett, könnyen bővíthető rendszerek hozhatók létre.
